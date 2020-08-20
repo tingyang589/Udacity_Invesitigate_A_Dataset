@@ -1,7 +1,10 @@
-# Udacity_Project1_Explore_Weather_Trend
-This is the very first project of Udacity Data Analyst Nanodegree course.
+# Udacity_Project2_Investigate_No_show_Dataset
+This is the second prject of Udacity Data Analyst Nanodegree course, where I choose a Udacity dataset and investigate it using NumPy and pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
-## Project Summary
-In this project, I will analyze local and global temperature data and compare the temperature trends where I live (in my case it's London, UK) to overall global temperature trends.
+## Project Data
+I have chosen to analyse the No Show dataset as I work in health care sector. The dataset shows the information that collected from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. 
 
-The whole analysis was performed in Excel.
+The Data is dowloaded from Kaggle [here](https://www.kaggle.com/joniarroba/noshowappointments)
+
+
+
