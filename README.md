@@ -1,4 +1,4 @@
-# Udacity_Project1_Investigate_A_Dataset
+# Udacity_Project1_Explore_Weather_Trend
 This is the very first project of Udacity Data Analyst Nanodegree course.
 
 ## Project Summary
