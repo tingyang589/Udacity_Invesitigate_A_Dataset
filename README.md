@@ -1,4 +1,4 @@
-# Udacity_Project2_Investigate_No_show_Dataset
+# Udacity_Project_Investigate_No_show_Dataset
 This is the second prject of Udacity Data Analyst Nanodegree course.
 
 ## Project Overview
