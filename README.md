@@ -4,7 +4,7 @@ This is the second prject of Udacity Data Analyst Nanodegree course, where I cho
 ## Project Data
 I have chosen to analyse the No Show dataset as I work in health care sector. The dataset shows the information that collected from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. 
 
-The Data is dowloaded from Kaggle [here](https://www.kaggle.com/joniarroba/noshowappointments)
+The Data is dowloaded from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments).
 
 
 
